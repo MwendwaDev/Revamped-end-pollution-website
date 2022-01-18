@@ -89,7 +89,7 @@ header{
 
 header .logo{
     color: var(--green);
-    font-size: 3rem;
+    font-size: 1.5rem;
 }
 header .navbar ul{
     display: flex;
@@ -127,7 +127,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(432.jpg) no-repeat;
+    background: url(15.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -138,7 +138,7 @@ header .fa-bars{
 }
 .home .content h1{
     font-size: 4.5rem;
-    color: var(--green);
+    color: white;
     font-weight: bold;
 
 }
@@ -286,7 +286,7 @@ text-align: center;
        margin: 1rem;
    }
     .sustainability .box-container .box p{
-font-size: 2rem;
+font-size: 1.5rem;
 color: #000;
    }
    .sustainability .box-container .box img{
